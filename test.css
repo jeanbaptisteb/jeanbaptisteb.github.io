@@ -81,5 +81,8 @@ flex-wrap: nowrap;
 	order: 2;
 }
 .Fichier_joint {
-	order: 4;
+	display: none;
+}
+dt,dd {
+	display:inline;
 }
