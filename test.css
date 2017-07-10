@@ -83,7 +83,10 @@ flex-wrap: wrap;
 .Fichier_joint {
 	display: none;
 }
-dt, dd {
+.LienBibtex {
+display: none;	
+}
+dd {
 	display: inline;
 }
 
