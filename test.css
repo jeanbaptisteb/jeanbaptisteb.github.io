@@ -73,7 +73,7 @@ div.ZoneTitreResultat
 }
 .NoticeRes {
   display: inline-flex;
-flex-wrap: nowrap;
+flex-wrap: wrap;
   
 }
 
