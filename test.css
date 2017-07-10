@@ -73,6 +73,6 @@ div.ZoneTitreResultat
 flex-wrap: nowrap;
   
 }
-.NoticeRes > .ValeurRes Auteurs { order: 3;}
-.NoticeRes > .ValeurRes Titre { order: 2;}
-.NoticeRes > .ValeurRes article { order: 1;}
+.NoticeRes > .ValeurRes Auteurs { order: 1;}
+.NoticeRes > .ValeurRes Titre { order: 3;}
+.NoticeRes > .ValeurRes article { order: 2;}
