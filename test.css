@@ -87,6 +87,6 @@ flex-wrap: wrap;
 display: none;	
 }
 dd {
-	display: inline;
+	display: inline-block;
 }
 
