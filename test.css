@@ -83,3 +83,7 @@ flex-wrap: wrap;
 .Fichier_joint {
 	display: none;
 }
+dt, dd {
+	display: inline;
+}
+
