@@ -54,10 +54,10 @@ div.ZoneTitreResultat
 	
 }
 dd.Titre:before {
-content:"&laquo;&nbsp;";
+content:"«&nbsp;";
 }
 dd.Titre:after {
-content:"&nbsp;&raquo;";
+content:"&nbsp;»";
 }
 /* classe pour les identifiants */ 
 .Identifiant {
