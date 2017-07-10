@@ -70,6 +70,7 @@ div.ZoneTitreResultat
 }
 .NoticeRes {
   display: inline-flex;
+flex-wrap: nowrap;
   
 }
 .NoticeRes > .ValeurRes Auteurs { order: 3;}
