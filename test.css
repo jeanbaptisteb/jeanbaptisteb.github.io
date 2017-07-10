@@ -68,3 +68,10 @@ div.ZoneTitreResultat
 /* classe pour l'audience */ 
 .Audience{
 }
+.NoticeRes {
+  display: inline-flex;
+  
+}
+.NoticeRes > .ValeurRes Auteurs { order: 2;}
+.NoticeRes > .ValeurRes Titre { order: 1;}
+.NoticeRes > .ValeurRes article { order: 3;}
