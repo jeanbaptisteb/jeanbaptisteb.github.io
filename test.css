@@ -53,6 +53,12 @@ div.ZoneTitreResultat
 	order: 2;
 	
 }
+.Titre:before {
+content:"«";
+}
+.Titre:after {
+content:"»";
+}
 /* classe pour les identifiants */ 
 .Identifiant {
 }
