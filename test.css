@@ -90,4 +90,5 @@ dd {
 	display: inline-block;
 	margin-right:00px
 }
+dd:after {content:","}
 
