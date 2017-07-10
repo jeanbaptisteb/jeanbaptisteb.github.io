@@ -50,7 +50,7 @@ div.ZoneTitreResultat
 .Titre, .Titre a {
    font-weight:bold;
 	color:#58529F;
-	order: 3;
+	order: 2;
 	
 }
 /* classe pour les identifiants */ 
@@ -78,7 +78,7 @@ flex-wrap: wrap;
 }
 
 .article { 
-	order: 2;
+	order: 3;
 }
 .Fichier_joint {
 	display: none;
