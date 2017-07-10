@@ -86,3 +86,6 @@ flex-wrap: wrap;
 dd {
 	display:inline;
 }
+dt {
+	display: none;
+}
