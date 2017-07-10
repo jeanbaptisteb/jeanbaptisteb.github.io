@@ -1,1 +1,8 @@
 
+.NoticeRes {
+  display: flex;
+  flex-direction: column;
+}
+.NoticeRes > .ValeurRes Auteurs { order: 2;}
+.NoticeRes > .ValeurRes Titre { order: 1;}
+.NoticeRes > .ValeurRes article { order: 3;}
