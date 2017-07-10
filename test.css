@@ -80,3 +80,6 @@ flex-wrap: nowrap;
 .article { 
 	order: 2;
 }
+.Fichier_joint {
+	order: 4;
+}
