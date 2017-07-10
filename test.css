@@ -44,11 +44,14 @@ div.ZoneTitreResultat
 }
 /* classe pour les auteurs */ 
 .Auteurs {
+	order: 1;
 }
 /* classe pour les titres */ 
 .Titre, .Titre a {
    font-weight:bold;
 	color:#58529F;
+	order: 2;
+	
 }
 /* classe pour les identifiants */ 
 .Identifiant {
@@ -73,6 +76,7 @@ div.ZoneTitreResultat
 flex-wrap: nowrap;
   
 }
-.NoticeRes > .Auteurs { order: 1;}
-.NoticeRes > .Titre { order: 3;}
-.NoticeRes > .article { order: 2;}
+
+.article { 
+	order: 3;
+}
